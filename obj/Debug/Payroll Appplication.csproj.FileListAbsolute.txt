@@ -1,0 +1,41 @@
+D:\C# Projects\Payroll Appplication\Payroll Appplication\bin\Debug\Payroll Appplication.exe.config
+D:\C# Projects\Payroll Appplication\Payroll Appplication\bin\Debug\Payroll Appplication.exe
+D:\C# Projects\Payroll Appplication\Payroll Appplication\bin\Debug\Payroll Appplication.pdb
+D:\C# Projects\Payroll Appplication\Payroll Appplication\obj\Debug\Payroll Appplication.csproj.AssemblyReference.cache
+D:\C# Projects\Payroll Appplication\Payroll Appplication\obj\Debug\MainWindow.g.cs
+D:\C# Projects\Payroll Appplication\Payroll Appplication\obj\Debug\App.g.cs
+D:\C# Projects\Payroll Appplication\Payroll Appplication\obj\Debug\Payroll Appplication_MarkupCompile.cache
+D:\C# Projects\Payroll Appplication\Payroll Appplication\obj\Debug\Payroll Appplication_MarkupCompile.lref
+D:\C# Projects\Payroll Appplication\Payroll Appplication\obj\Debug\MainWindow.baml
+D:\C# Projects\Payroll Appplication\Payroll Appplication\obj\Debug\Payroll Appplication.g.resources
+D:\C# Projects\Payroll Appplication\Payroll Appplication\obj\Debug\Payroll_Appplication.Properties.Resources.resources
+D:\C# Projects\Payroll Appplication\Payroll Appplication\obj\Debug\Payroll Appplication.csproj.GenerateResource.cache
+D:\C# Projects\Payroll Appplication\Payroll Appplication\obj\Debug\Payroll Appplication.csproj.CoreCompileInputs.cache
+D:\C# Projects\Payroll Appplication\Payroll Appplication\obj\Debug\Payroll Appplication.exe
+D:\C# Projects\Payroll Appplication\Payroll Appplication\obj\Debug\Payroll Appplication.pdb
+D:\C# Projects\Payroll Appplication\Payroll Appplication\obj\Debug\Login.g.cs
+D:\C# Projects\Payroll Appplication\Payroll Appplication\obj\Debug\Login.baml
+D:\C# Projects\Payroll Appplication\Payroll Appplication\bin\Debug\CommonServiceLocator.dll
+D:\C# Projects\Payroll Appplication\Payroll Appplication\bin\Debug\GalaSoft.MvvmLight.dll
+D:\C# Projects\Payroll Appplication\Payroll Appplication\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+D:\C# Projects\Payroll Appplication\Payroll Appplication\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+D:\C# Projects\Payroll Appplication\Payroll Appplication\bin\Debug\System.Windows.Interactivity.dll
+D:\C# Projects\Payroll Appplication\Payroll Appplication\bin\Debug\GalaSoft.MvvmLight.pdb
+D:\C# Projects\Payroll Appplication\Payroll Appplication\bin\Debug\GalaSoft.MvvmLight.xml
+D:\C# Projects\Payroll Appplication\Payroll Appplication\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+D:\C# Projects\Payroll Appplication\Payroll Appplication\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+D:\C# Projects\Payroll Appplication\Payroll Appplication\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+D:\C# Projects\Payroll Appplication\Payroll Appplication\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+D:\C# Projects\Payroll Appplication\Payroll Appplication\obj\Debug\Payroll .96780DE0.Up2Date
+D:\C# Projects\Payroll Appplication\Payroll Appplication\obj\Debug\Employees.g.cs
+D:\C# Projects\Payroll Appplication\Payroll Appplication\obj\Debug\Employees.baml
+D:\C# Projects\Payroll Appplication\Payroll Appplication\obj\Debug\EmployeeEdit.g.cs
+D:\C# Projects\Payroll Appplication\Payroll Appplication\obj\Debug\EmployeeEdit.baml
+D:\C# Projects\Payroll Appplication\Payroll Appplication\obj\Debug\PayrollHandling.g.cs
+D:\C# Projects\Payroll Appplication\Payroll Appplication\obj\Debug\PayrollHandling.baml
+D:\C# Projects\Payroll Appplication\Payroll Appplication\obj\Debug\RegisterPage.g.cs
+D:\C# Projects\Payroll Appplication\Payroll Appplication\obj\Debug\RegisterPage.baml
+D:\C# Projects\Payroll Appplication\Payroll Appplication\obj\Debug\Profile.g.cs
+D:\C# Projects\Payroll Appplication\Payroll Appplication\obj\Debug\Statistics.g.cs
+D:\C# Projects\Payroll Appplication\Payroll Appplication\obj\Debug\Profile.baml
+D:\C# Projects\Payroll Appplication\Payroll Appplication\obj\Debug\Statistics.baml
